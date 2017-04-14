@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="keyBoard">
+        <!--<attr name="numType" format="integer"/>-->
+        <attr name="numType">
+            <enum name="decimal" value="1"/>
+            <enum name="natural" value="2"/>
+        </attr>
+
+    </declare-styleable>
+</resources>
